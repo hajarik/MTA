@@ -2,7 +2,7 @@
 
 ## Objectives:
 
-- Apply your knowledge of JavaScript to solve a real world problem.
+- Apply your knowledge of Java to solve a real world problem.
 - Get really good at array manipulation.
 
 ### Activity
