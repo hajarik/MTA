@@ -12,10 +12,10 @@
 - The program takes the line and stop that a user is getting on at and the line
   and stop that user is getting off at and prints the journey and the total number of stops for the trip in the console:
 
-```javascript
+```java
 planTrip("N", "Times Square", "6", "33rd"); // This is only a suggested function name and signature.
 
-// console.log() shows output similar to this:
+// shows output similar to this:
 // "You must travel through the following stops on the N line: 34th, 28th, 23rd, Union Square."
 // "Change at Union Square."
 // "Your journey continues through the following stops: 23rd, 28th, 33rd."
